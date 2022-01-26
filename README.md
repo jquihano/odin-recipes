@@ -1,2 +1,3 @@
 # odin-recipes
-Creating a recipe project for the odin project
+January 25
+Creating a recipe project for the Odin Project
