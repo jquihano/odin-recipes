@@ -20,3 +20,15 @@ ul, .logo {
   margin-right: auto;
   width: 20%;
 }
+
+.cards {
+  display: inline-flex;
+  width: auto;
+}
+
+.cards > p{
+background-color: lightgrey;
+margin: 20px;
+padding: 50px;
+
+}
